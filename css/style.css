@@ -95,3 +95,8 @@ p:first-of-type {
   font-weight: bold;
   color: red;
 }
+
+img {
+  float: left;
+  margin-right: 30px;
+}
