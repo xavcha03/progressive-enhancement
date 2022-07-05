@@ -23,3 +23,7 @@
 - footer : Represents the "footer" of a document or section of a document.
 - em : Represents stress emphasis of its contents.
 - strong : Represents strong importance for its contents.
+
+## CSS Diner
+
+![Css diner finiched](img/css%20diner.png)
