@@ -35,3 +35,7 @@
 ## Html validator
 
 ![Validator](img/html%20validator.png)
+
+## Google lighthouse Test
+
+![Validator](img/html%20validator.png)
