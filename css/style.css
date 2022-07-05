@@ -19,3 +19,22 @@ a:visited {
   color: rgb(175, 207, 169);
   font-weight: lighter;
 }
+
+body {
+  max-width: 90%;
+  margin: 0 auto;
+  background: linear-gradient(90deg, rgb(192, 202, 173), rgb(128, 151, 84));
+  background-image: url("../img/chinebg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom right;
+}
+
+blockquote {
+  width: 50%;
+  margin: 80px auto;
+  font-size: 1.6em;
+  background-color: rgb(50, 83, 129);
+  margin-left: 3px;
+  padding: 30px;
+}
