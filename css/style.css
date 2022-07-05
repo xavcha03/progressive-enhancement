@@ -3,3 +3,19 @@ p {
   letter-spacing: 0.2em;
   color: rgb(15, 35, 74);
 }
+
+a {
+  text-decoration: underline;
+  color: rgb(32, 84, 22);
+  font-weight: bold;
+}
+
+a:hover {
+  color: rgb(28, 134, 7);
+  font-weight: bolder;
+}
+
+a:visited {
+  color: rgb(175, 207, 169);
+  font-weight: lighter;
+}
