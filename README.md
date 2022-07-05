@@ -31,3 +31,7 @@
 ## Breaking the flow
 
 ![position](img/Breaking%20the%20flow.png)
+
+## Html validator
+
+![Validator](img/html%20validator.png)
